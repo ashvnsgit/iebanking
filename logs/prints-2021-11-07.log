@@ -1,0 +1,6 @@
+18:42:33.995 [main] DEBUG com.inetbanking.testcases.TC_01_LoginTest - Ebank Url getting loaded
+18:42:34.175 [main] INFO  com.inetbanking.testcases.TC_01_LoginTest - user giving username
+18:42:34.314 [main] INFO  com.inetbanking.testcases.TC_01_LoginTest - user giving password
+18:51:15.913 [main] DEBUG com.inetbanking.testcases.TC_01_LoginTest - Ebank Url getting loaded
+18:51:16.213 [main] INFO  com.inetbanking.testcases.TC_01_LoginTest - user giving username
+18:51:16.336 [main] INFO  com.inetbanking.testcases.TC_01_LoginTest - user giving password
